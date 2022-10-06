@@ -1,0 +1,102 @@
+{
+	"0": {
+		"question": "Which operator is used to assign a value to a variable?",
+		"answers": [
+			"*",
+			"=",
+			"-",
+			"$"
+		],
+		"correctAnswer": 1
+	},
+	"1": {
+		"question": "What is the correct JavaScript syntax to change the content of the HTML element below?\n<p id=\"demo\">This is a demonstration.</p>",
+		"answers": [
+			"document.getElementById(\"demo\").innerHTML = \"Hello World!\";",
+			"document.getElement(\"p\").innerHTML = \"Hello World!\";",
+			"#demo.innerHTML = \"Hello World!\";",
+			"document.getElementByName(\"p\").innerHTML = \"Hello World!\";"
+		],
+		"correctAnswer": 0
+	},
+	"2": {
+		"question": "How do you write \"Hello World\" in an alert box?",
+		"answers": [
+			"alert(\"Hello World\");",
+			"msgBox(\"Hello World\");",
+			"alertBox(\"Hello World\");",
+			"msg(\"Hello World\");"
+		],
+		"correctAnswer": 0
+	},
+	"3": {
+		"question": "How to write an IF statement in JavaScript?",
+		"answers": [
+			"if (i == 5)",
+			"if i = 5 then",
+			"if i = 5",
+			"if i == 5 then"
+		],
+		"correctAnswer": 0
+	},
+	"4": {
+		"question": "How to write an IF statement for executing some code if \"i\" is NOT equal to 5?",
+		"answers": [
+			"if (i != 5)",
+			"if i =! 5 then",
+			"if (i <> 5)",
+			"if i <> 5"
+		],
+		"correctAnswer": 0
+	},
+	"5": {
+		"question": "How does a FOR loop start?",
+		"answers": [
+			"for (i = 0; i <= 5; i++)",
+			"for (i = 0; i <= 5)",
+			"for (i <= 5; i++)",
+			"for i = 1 to 5"
+		],
+		"correctAnswer": 0
+	},
+	"6": {
+		"question": "What is the correct way to write a JavaScript array?",
+		"answers": [
+			"var colors = [\"red\",\"green\",\"blue\"]",
+			"var colors = \"red\", \"green\", \"blue\"",
+			"var colors = 1 = (\"red\"),2 = (\"green\"),3 = (\"blue\")",
+			"var colors = (1: \"red\", 2: \"green\", 3: \"blue\")"
+		],
+		"correctAnswer": 0
+	},
+	"7": {
+		"question": "How do you round the number 7.25, to the nearest integer?",
+		"answers": [
+			"Math.round(7.25)",
+			"rnd(7.25)",
+			"Math.rnd(7.25)",
+			"round(7.25)"
+		],
+		"correctAnswer": 0
+	},
+	"8": {
+		"question": "How do you find the number with the highest value of x and y?",
+		"answers": [
+			"ceil(x, y)",
+			"Math.max(x, y)",
+			"Math.ceil(x, y)",
+			"top(x, y)"
+		],
+		"correctAnswer": 1
+	},
+	"9": {
+		"question": "Which event occurs when the user clicks on an HTML element?",
+		"answers": [
+			"onmouseclick",
+			"onmouseover",
+			"onchange",
+			"onclick"
+		],
+		"correctAnswer": 3
+	}
+}
